@@ -1,0 +1,13 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘
+]
+java:S1854"BRemove this useless assignment to local variable "moveInSyncCafe".(şÆèĞùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨—‘Ã
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸áæıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥‘®½ÿÿÿÿÿ
+N
+java:S1481"3Remove this unused "moveInSyncCafe" local variable.(şÆèĞùÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(†²ãü
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(İ‹¬ã
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ÓïÁØøÿÿÿÿ
